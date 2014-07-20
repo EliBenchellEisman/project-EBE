@@ -9,3 +9,9 @@ for num in open('data.txt'):
     n += 1
 print var / n
 # Programming is fun!
+
+# How are you gentlemen. 
+# All your base are belong to us.
+# What you say!?
+# You have no chance to survive make your time.
+# Ha ha ha.
