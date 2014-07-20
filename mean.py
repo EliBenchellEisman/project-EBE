@@ -1,11 +1,11 @@
 # print the mean of the numbers in the file
 import sys
-
-sum = 0
+#change sum to var
+var = 0
 n = 0
-# sum inpute values
+# var inpute values
 for num in open('data.txt'):
-    sum += float(num)
+    var += float(num)
     n += 1
-print sum / n
+print var / n
 # Programming is fun!
